@@ -5,5 +5,7 @@ int main() {
   int a=1;
   a++;
   a++;
+a++;
+//kuk
   cout << "MF-" << a;
 }
